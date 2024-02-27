@@ -1,0 +1,17 @@
+.formy{
+   margin:0px 200px;
+}
+
+.down{
+    width:90%;
+    border-color: rgb(165, 165, 165);
+    margin:0 auto;
+}
+
+.up{
+    border-color: rgb(165, 165, 165);
+    margin:0 auto;
+}
+.athlete_info{
+    margin: 0 150px;
+}
